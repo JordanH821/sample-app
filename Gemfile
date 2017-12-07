@@ -36,6 +36,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'rails-controller-testing'
 gem 'bcrypt', '3.1.11'
+gem 'jquery-rails'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', '9.0.0',  platforms: [:mri, :mingw, :x64_mingw]
